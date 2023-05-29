@@ -1,0 +1,15 @@
+.MessageInput form {
+  display: flex;
+  gap: 1px;
+}
+
+.MessageInput input {
+  background-color: dimgray;
+  width: 89%;
+  height: 40px;
+}
+.MessageInput button {
+  width: 80px;
+  height: 40px;
+  background: url("/public/icon-telegram.png");
+}

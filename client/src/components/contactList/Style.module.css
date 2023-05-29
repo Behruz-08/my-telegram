@@ -1,0 +1,10 @@
+.ContactList {
+  display: flex;
+  width: 30%;
+  height: 300px;
+  overflow: hidden;
+}
+.fullName {
+  display: flex;
+  color: red;
+}

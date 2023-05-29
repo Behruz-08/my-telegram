@@ -1,0 +1,35 @@
+* body {
+  background-color: cro;
+}
+
+.LoginPage button {
+  display: flex;
+  flex-direction: column;
+  margin-top: 20px;
+  width: 100px;
+  border-radius: 20px;
+  align-items: center;
+  background-color: #484545;
+  font-size: 20px;
+  margin-left: 100px;
+}
+
+.LoginPage input {
+  display: flex;
+  flex-direction: column;
+  margin-top: 20px;
+  background-color: #484545;
+  font-size: 20px;
+  margin-left: 30px;
+  text-align: center;
+}
+
+.LoginPage {
+  width: 30%;
+  height: 200px;
+  color: #ffffff;
+  border-radius: 10px;
+  margin-left: 400px;
+  margin-top: 150px;
+  background-color: #edd4d4;
+}
